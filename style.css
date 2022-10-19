@@ -1,5 +1,6 @@
 h1 {
     background-color: red;
+    color: rgb(101, 215, 177);
 }
 p {
     display: flex;
